@@ -16,13 +16,19 @@
       "price": "300"
     },
     {
-      "name": " Product D",
-      "id": 4
-    },
-    {
       "name": " Product E",
       "price": "1000",
       "id": 5
+    },
+    {
+      "name": "sản phẩm aa",
+      "price": "1234",
+      "id": 6
+    },
+    {
+      "name": "sản phẩm aa",
+      "price": "1234",
+      "id": 7
     }
   ]
 }

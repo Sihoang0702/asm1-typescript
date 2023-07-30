@@ -3,9 +3,10 @@ import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
 const Products = ({products, deleteProduct}) => {
-    const onHandlerDelete = () => {
+    const onHandlerDelete = (id) => {
         console.log("Product", id)
         deleteProduct(id)
+        
     }
   return (
     <div>
